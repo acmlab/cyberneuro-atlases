@@ -1,7 +1,7 @@
 {
  "name": "infant-atlases",
  "version": 1,
- "home": "https://github.com/MEKOMIKU/cyberneuro-atlases",
+ "home": "https://github.com/acmlab/cyberneuro-atlases",
  "packs": {
   "unc": {
    "title": "UNC 0-1-2 Infant Atlases (neonate, 1 year, 2 years; AAL-90)",
@@ -10,7 +10,7 @@
    "cite": "Shi F, Yap P-T, Wu G, Jia H, Gilmore JH, Lin W, Shen D. Infant brain atlases from neonates to 1- and 2-year-olds. PLoS ONE 6(4):e18746, 2011.",
    "downloads": [
     {
-     "url": "https://github.com/MEKOMIKU/cyberneuro-atlases/releases/download/infant-atlases-v1/unc.tar.gz",
+     "url": "https://github.com/acmlab/cyberneuro-atlases/releases/download/infant-atlases-v1/unc.tar.gz",
      "sha256": "aa6586bda7bdcedeadfd4a7458f877f30ec3fdc6f83b5ec016620823b4c871ec",
      "bytes": 188047318,
      "unpack": "tar.gz"
@@ -85,7 +85,7 @@
    "cite": "Chen L, et al., NeuroImage 2022 (full reference on the NITRC page).",
    "downloads": [
     {
-     "url": "https://github.com/MEKOMIKU/cyberneuro-atlases/releases/download/infant-atlases-v1/bcp.tar.gz",
+     "url": "https://github.com/acmlab/cyberneuro-atlases/releases/download/infant-atlases-v1/bcp.tar.gz",
      "sha256": "8bb973fd45c540959eed3fda6ad54b96e1914d30ea01d7dfb41946074ac63b64",
      "bytes": 79337898,
      "unpack": "tar.gz"
@@ -203,7 +203,7 @@
    "cite": "Schuh A, Makropoulos A, Robinson EC, et al. Unbiased construction of a temporally consistent morphological atlas of neonatal brain development. bioRxiv 251512, 2018.",
    "downloads": [
     {
-     "url": "https://github.com/MEKOMIKU/cyberneuro-atlases/releases/download/infant-atlases-v1/dhcp_ga43.tar.gz",
+     "url": "https://github.com/acmlab/cyberneuro-atlases/releases/download/infant-atlases-v1/dhcp_ga43.tar.gz",
      "sha256": "1337f616af3a1faed65649e6699af27777d8e13fcb3a2fb1d4134f46edaac7ea",
      "bytes": 6989879,
      "unpack": "tar.gz"
@@ -223,7 +223,7 @@
    "cite": "Schuh A, Makropoulos A, Robinson EC, et al. Unbiased construction of a temporally consistent morphological atlas of neonatal brain development. bioRxiv 251512, 2018.",
    "downloads": [
     {
-     "url": "https://github.com/MEKOMIKU/cyberneuro-atlases/releases/download/infant-atlases-v1/dhcp_ga44.tar.gz",
+     "url": "https://github.com/acmlab/cyberneuro-atlases/releases/download/infant-atlases-v1/dhcp_ga44.tar.gz",
      "sha256": "39438c21b560e3553deef9d74d48ffddcc7d5fc6f670c763c6d4e235ac8842b5",
      "bytes": 7023880,
      "unpack": "tar.gz"
@@ -243,7 +243,7 @@
    "cite": "Blesa M, et al. (ENA33, Front Neurosci 2016; ENA50); see the source repository for the papers.",
    "downloads": [
     {
-     "url": "https://github.com/MEKOMIKU/cyberneuro-atlases/releases/download/infant-atlases-v1/ena50.tar.gz",
+     "url": "https://github.com/acmlab/cyberneuro-atlases/releases/download/infant-atlases-v1/ena50.tar.gz",
      "sha256": "1fabb62557ef81e4e962e4041d8b725e595f0d2764bd2e7d660dda5df1619920",
      "bytes": 11911584,
      "unpack": "tar.gz"

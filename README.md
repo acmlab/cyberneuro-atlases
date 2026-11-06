@@ -8,7 +8,7 @@ These atlases are the work of their authors. CyberNeuro only repackages them, un
 under their original licences. **Please cite the original papers** (listed below and in
 each pack's `SOURCE.md`).
 
-## Infant atlases — release [`infant-atlases-v1`](https://github.com/MEKOMIKU/cyberneuro-atlases/releases/tag/infant-atlases-v1)
+## Infant atlases — release [`infant-atlases-v1`](https://github.com/acmlab/cyberneuro-atlases/releases/tag/infant-atlases-v1)
 
 Used by the brain-mri skill's infant routes: NiBabies-based functional connectivity and
 QSIPrep + ACT structural connectivity.
@@ -49,7 +49,7 @@ fetched from the authors' repository.
 - **By hand:**
 
   ```bash
-  base=https://github.com/MEKOMIKU/cyberneuro-atlases/releases/download/infant-atlases-v1
+  base=https://github.com/acmlab/cyberneuro-atlases/releases/download/infant-atlases-v1
   curl -fLO "$base/unc.tar.gz" && curl -fLO "$base/SHA256SUMS"
   sha256sum -c --ignore-missing SHA256SUMS && tar -xzf unc.tar.gz -C /path/to/atlases
   ```
